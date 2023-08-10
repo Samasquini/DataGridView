@@ -1,0 +1,11 @@
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\bin\Debug\Atividade-Listas.exe.config
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\bin\Debug\Atividade-Listas.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\bin\Debug\Atividade-Listas.pdb
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade-Listas.csproj.AssemblyReference.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade-Listas.csproj.SuggestedBindingRedirects.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade_Listas.Form1.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade_Listas.Properties.Resources.resources
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade-Listas.csproj.GenerateResource.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade-Listas.csproj.CoreCompileInputs.cache
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade-Listas.exe
+C:\Users\msama\OneDrive\Documentos\2° ano\1° Bim\P.O.O\Atividade\Atividade-Listas\obj\Debug\Atividade-Listas.pdb
