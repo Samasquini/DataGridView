@@ -41,6 +41,7 @@
             this.BtnExcluir = new System.Windows.Forms.Button();
             this.ValorVenda = new System.Windows.Forms.TextBox();
             this.dgv = new System.Windows.Forms.DataGridView();
+            this.novoBtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             this.SuspendLayout();
             // 
@@ -133,7 +134,7 @@
             // 
             // BtnCadastrar
             // 
-            this.BtnCadastrar.Location = new System.Drawing.Point(35, 244);
+            this.BtnCadastrar.Location = new System.Drawing.Point(323, 244);
             this.BtnCadastrar.Margin = new System.Windows.Forms.Padding(4);
             this.BtnCadastrar.Name = "BtnCadastrar";
             this.BtnCadastrar.Size = new System.Drawing.Size(136, 74);
@@ -151,6 +152,7 @@
             this.BtnExcluir.TabIndex = 12;
             this.BtnExcluir.Text = "Excluir";
             this.BtnExcluir.UseVisualStyleBackColor = true;
+            this.BtnExcluir.Click += new System.EventHandler(this.BtnExcluir_Click);
             // 
             // ValorVenda
             // 
@@ -171,11 +173,23 @@
             this.dgv.Size = new System.Drawing.Size(682, 204);
             this.dgv.TabIndex = 15;
             // 
+            // novoBtn
+            // 
+            this.novoBtn.Location = new System.Drawing.Point(35, 244);
+            this.novoBtn.Margin = new System.Windows.Forms.Padding(4);
+            this.novoBtn.Name = "novoBtn";
+            this.novoBtn.Size = new System.Drawing.Size(136, 74);
+            this.novoBtn.TabIndex = 16;
+            this.novoBtn.Text = "Novo";
+            this.novoBtn.UseVisualStyleBackColor = true;
+            this.novoBtn.Click += new System.EventHandler(this.novoBtn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(713, 645);
+            this.Controls.Add(this.novoBtn);
             this.Controls.Add(this.dgv);
             this.Controls.Add(this.ValorVenda);
             this.Controls.Add(this.BtnExcluir);
@@ -213,6 +227,7 @@
         private System.Windows.Forms.Button BtnExcluir;
         private System.Windows.Forms.TextBox ValorVenda;
         private System.Windows.Forms.DataGridView dgv;
+        private System.Windows.Forms.Button novoBtn;
     }
 }
 

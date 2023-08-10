@@ -33,5 +33,24 @@ namespace Atividade_Listas
             dgv.Refresh();
             dgv.DataSource = lista;
         }
+
+        private void BtnExcluir_Click(object sender, EventArgs e)
+        {
+            int index = dgv.CurrentCell.RowIndex;
+            lista.RemoveAt(index);
+
+            dgv.DataSource = null;
+            dgv.Refresh();
+            dgv.DataSource = lista;
+        }
+
+        private void novoBtn_Click(object sender, EventArgs e)
+        {
+            Codigo.Clear();
+            Descricao.Clear();
+            ValorVenda.Clear();
+            PrecoAqui.Clear();
+            PorcenVenda.Clear();
+        }
     }
 }
